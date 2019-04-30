@@ -18,4 +18,4 @@ This program is used to convert intel hex format file to asemble language. In ot
 
 ### Example:
 
-![example](https://github.com/wybuhui/hex2asm/blob/master/Screenshot%20from%202019-04-30%2009-42-46.png)
+![example](https://github.com/wybuhui/hex2asm/blob/master/example.png)
